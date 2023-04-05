@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 <br>🌱 I just love coding, and I want to know more about that.
 <br>😄 Fun fact: I am a humorist person hehe
-<br>📫 How to reach me: U can send a message to me via email ojanherdika@gmail.com
-
+<br> 🔭 I’m currently working on Company Tech as Back End Developer
